@@ -10,7 +10,7 @@ import Header from './layout/Header';
 import Footer from './layout/Footer';
 import PageContent from './layout/PageContent';
 import HomePage from './pages/HomePage';
-import Login from './pages/Login';
+import Login from './pages/login';
 import ShopPage from './pages/ShopPage';
 import ProductDetail from './pages/ProductDetail';
 import Contact from './pages/Contact';
