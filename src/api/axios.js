@@ -1,12 +1,10 @@
-import axios from 'axios'
+import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'https://dummyjson.com',
+  baseURL: 'https://workintech-fe-ecommerce.onrender.com',
   timeout: 10000,
-  headers: {
-    'Content-Type': 'application/json',
-  },
-})
+});
 
-export default axiosInstance
+export default axiosInstance;
+
 
